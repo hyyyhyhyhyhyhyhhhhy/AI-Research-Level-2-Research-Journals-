@@ -4,8 +4,7 @@
 I was interested in finding out more abou the issue with the sliders in the Scene Describer space, in the previous week. I came to the class with the question: how can I find a model thats speacially designed for spacial depth view, and how can I use/attach it to the Scene Describer? I enede up being introduced to another language model in class. Althoug, I figured that if I ask Consensus to do the research, which is what we learned in class, I might have a chanc in getting what I want. 
 
 ### What Happened in Class
-(What did we talk about? What did my partner say about my question?)
-(kinds confused about this question) 
+- 
 
 ### My Research Question (Current Version)
 "How well do different language models preserve spatial relationships when generating descriptions of visual scenes?" 
