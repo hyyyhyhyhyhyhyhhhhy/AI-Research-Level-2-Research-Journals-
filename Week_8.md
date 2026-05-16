@@ -11,6 +11,7 @@ I have polished the Huggin Face collecion by adding a note for every space and m
 [The link to the README](https://github.com/hyyyhyhyhyhyhyhhhhy/hyyyhyhyhyhyhyhhhhy)
 
 ### Output regarding the paper.md: 
+- 
 
 ### One more thing to add before lesson 9: 
 I would like to attach at least one of the 2 models I have added to my collection, to the Image Describer(but not just copying and pasting). Right now the image generation in this built space is just a draft, hence why I'm going to add either the ability of having a depth view, or giving more detailed and prompt-following outputs. 
